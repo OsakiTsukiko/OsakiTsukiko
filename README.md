@@ -5,6 +5,12 @@ Making games is kinda fun!<br><br>
 I can eat glass, it does not hurt me<br>
 Say no to Euler angles!</p>
 
+<h1>Useful stuff</h1>
+<ul>
+  <li><b><a href="https://github.com/OsakiTsukiko/Platformer2D" target="_blank">Simple 2D Platformer that aims to <i>feel good</i> (Godot 3.x)</a></b></li>
+  <li><b><a href="https://github.com/OsakiTsukiko/network-project-base" target="_blank">A base for godot networking projects (3.x)</a></b></li>
+</ul>
+
 <h1>Social Media</h1>
 <ul>
   <li><b>Matrix Place:</b> <a href="https://matrix.to/#/#osaki:matrix.org" target="_blank">#osaki:matrix.org</a></li>
