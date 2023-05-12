@@ -1,4 +1,4 @@
-<img width="100%" src="https://raw.githubusercontent.com/OsakiTsukiko/OsakiTsukiko/main/banner.jpg">
+<!-- <img width="100%" src="https://raw.githubusercontent.com/OsakiTsukiko/OsakiTsukiko/main/banner.jpg"> -->
 <h1>BIO</h1>
 <p>
 Making games is kinda fun!<br><br>
