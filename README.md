@@ -2,7 +2,7 @@
 <h1>.\ v /.</h1>
 <p>
 Making games is kinda fun!<br><br>
-I can eat glass, it does not hurt me<br>
+Samurai... Samurai... why won't you  DIE!<br>
 Say no to Euler angles!</p>
 
 <h1>Useful stuff</h1>
