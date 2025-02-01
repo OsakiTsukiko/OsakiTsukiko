@@ -6,7 +6,8 @@ Making games is kinda fun!<br><br>
 ⛩️ Samurai... Samurai... why won't you  DIE!<br>
 📐 Say no to Euler angles!<br>
 🪲 Use emojis for debugging!!!!<br>
-🛒 Never underestimate the bandwidth of a station wagon full of tapes hurtling down the highway!
+🛒 Never underestimate the bandwidth of a station wagon full of tapes hurtling down the highway!<br>
+🪨 There is no war in Ba Sing Se!
 </p>
 
 <h1>Social Media</h1>
