@@ -1,3 +1,7 @@
+<div align="right">
+  <img width=250px src="https://github.com/user-attachments/assets/4e63787b-40d7-4f70-8378-036311a5ab45">
+</div>
+
 <!-- <img width="100%" src="https://raw.githubusercontent.com/OsakiTsukiko/OsakiTsukiko/main/banner.jpg"> -->
 <h1>.\ v /.</h1>
 <p>
@@ -38,3 +42,7 @@ D24ILQc=
 =Qjdd
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+<br>
+<div align="left">
+  <img width=175px src="https://github.com/user-attachments/assets/88e5ad70-f30b-44a0-a3ac-92144847f617">
+</div>
