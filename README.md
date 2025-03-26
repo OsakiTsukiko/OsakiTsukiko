@@ -3,7 +3,7 @@
 </div>
 
 <!-- <img width="100%" src="https://raw.githubusercontent.com/OsakiTsukiko/OsakiTsukiko/main/banner.jpg"> -->
-<h1>.\ v /.</h1>
+<h1>🐸🌱🌾</h1>
 <p>
 Making games is kinda fun!<br><br>
 
