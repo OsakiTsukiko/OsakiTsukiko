@@ -12,7 +12,8 @@ Making games is kinda fun!<br><br>
 🪲 Use emojis for debugging!!!!<br>
 🛒 Never underestimate the bandwidth of a station wagon full of tapes hurtling down the highway!<br>
 🪨 There is no war in Ba Sing Se!  
-🦔 I fear the medallion.
+🦔 I fear the medallion.  
+⛰️ When heaven and earth meet, a mountain hides in a mustard seed
 </p>
 
 <h1>Social Media</h1>
