@@ -19,10 +19,10 @@ Making games is kinda fun!<br><br>
 <h1>Social Media</h1>
 <ul>
   <li><b>Website:</b> <a rel="me" target="_blank" href="https://osakitsukiko.github.io/">osakitsukiko.github.io</a></li>
-  <li><b>Matrix Place:</b> <a href="https://matrix.to/#/#osaki:matrix.org" target="_blank">#osaki:matrix.org</a></li>
   <li><b>Discord:</b> osakitsukiko</li>
   <!-- <li><b>Youtube:</b> <a href="https://www.youtube.com/channel/UCSoP59daTpsJutrim4QXSow" target="_blank">Osaki Tsukiko</a></li> -->
-  <li><b>Mastodon:</b> <a rel="me" target="_blank" href="https://mastodon.gamedev.place/@osakitsukiko">@osakitsukiko@mastodon.gamedev.place</a></li>
+  <!-- <li><b>Mastodon:</b> <a rel="me" target="_blank" href="https://mastodon.gamedev.place/@osakitsukiko">@osakitsukiko@mastodon.gamedev.place</a></li> -->
+  <!-- You can probably find my mail in commits as well :) -->
 </ul>
 <img src="https://profile-counter.glitch.me/osakitsukiko_github_profile_counter/count.svg" width="0px">
 
