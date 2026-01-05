@@ -15,6 +15,7 @@ Making games is kinda fun!<br><br>
 🦔 I fear the medallion.  
 ⛰️ When heaven and earth meet, a mountain hides in a mustard seed  
 🥱 "Half life 3 is coming guys" as I get dragged into the padded room 
+🗡️ There are superior numbers
 </p>
 
 <h1>Social Media</h1>
