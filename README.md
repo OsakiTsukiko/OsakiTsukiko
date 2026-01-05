@@ -14,8 +14,9 @@ Making games is kinda fun!<br><br>
 🪨 There is no war in Ba Sing Se!  
 🦔 I fear the medallion.  
 ⛰️ When heaven and earth meet, a mountain hides in a mustard seed  
-🥱 "Half life 3 is coming guys" as I get dragged into the padded room 
-🗡️ There are superior numbers
+🥱 "Half life 3 is coming guys" as I get dragged into the padded room  
+🗡️ There are superior numbers  
+😔 There are lame numbers  
 </p>
 
 <h1>Social Media</h1>
